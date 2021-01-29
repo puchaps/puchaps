@@ -8,4 +8,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-24292e?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-24292e?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-24292e?style=for-the-badge&logo=Redux)
-![Saga](https://img.shields.io/badge/-Redux-24292e?style=for-the-badge&logo=Redux)
