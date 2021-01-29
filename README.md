@@ -9,5 +9,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-24292e?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-24292e?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-24292e?style=for-the-badge&logo=Redux)
-![Html](https://img.shields.io/badge/-Html-24292e?style=for-the-badge&logo=Html)
-![Css](https://img.shields.io/badge/-Css-24292e?style=for-the-badge&logo=Css)
+![HTML](https://img.shields.io/badge/-HTML-24292e?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-24292e?style=for-the-badge&logo=CSS)
