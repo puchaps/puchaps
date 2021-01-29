@@ -1,1 +1,1 @@
-[![Header](https://github.com/puchaps/puchaps/blob/main/assets/mbCXU1611961053.jpg)]
+![Header](https://github.com/puchaps/puchaps/blob/main/assets/mbCXU1611961053.jpg)
