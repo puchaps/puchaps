@@ -1,4 +1,4 @@
-![Header](https://github.com/puchaps/puchaps/blob/main/assets/zEmTR1611963780.jpg)
+![Header](https://github.com/puchaps/puchaps/blob/main/assets/29PRq1611964337.jpg)
 
 ## I'm a beginner front-end developer
 
