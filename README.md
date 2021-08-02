@@ -1,6 +1,4 @@
-![Header](https://github.com/puchaps/puchaps/blob/main/assets/HQ8KH1612201339.jpg)
-
-## I'm a beginner front-end developer
+## I'm a JS, Ruby on Rails, React Developer
 
 ## Languages and Tools
 ![Firebase](https://img.shields.io/badge/-Firebase-24292e?style=for-the-badge&logo=firebase)
