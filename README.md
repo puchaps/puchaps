@@ -11,4 +11,4 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-24292e?style=for-the-badge&logo=Instagram)](https://www.instagram.com/accounts/login/?next=/adamovich_ps/%3Figshid%3D2rl7e5y71xkf)
 [![Vk](https://img.shields.io/badge/-Vk-24292e?style=for-the-badge&logo=Vk)](https://vk.com/id193711157)
-[![Telegram](https://img.shields.io/badge/-Telegram-24292e?style=for-the-badge&logo=Telegram)](https://t.me/adamovuch_ps)
+[![Telegram](https://img.shields.io/badge/-Telegram-24292e?style=for-the-badge&logo=Telegram)](https://t.me/Adamovych_PS)
