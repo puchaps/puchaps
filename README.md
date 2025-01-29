@@ -1,1 +1,1 @@
-## Ruby on Rails, React Developer
+## Ruby on Rails Developer
