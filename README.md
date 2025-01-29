@@ -1,4 +1,4 @@
-## I'm a JS, Ruby on Rails, React Developer
+## Ruby on Rails, React Developer
 
 ## Languages and Tools
 ![Firebase](https://img.shields.io/badge/-Firebase-24292e?style=for-the-badge&logo=firebase)
